@@ -1,4 +1,4 @@
-document.addEventListener('DOMContetLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() {
     evento.preventDefault();
     document.getElementById('form-sorteador').addEventListener('submit', function (evento) {
         evento.preventDefault();
